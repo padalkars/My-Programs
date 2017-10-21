@@ -1,4 +1,5 @@
 '''
+Perseverance.
 Say you want to find a phone number in a string. You know the pattern:
 three numbers, a hyphen, three numbers, a hyphen, and four numbers.
 Here’s an example: 415-555-4242.

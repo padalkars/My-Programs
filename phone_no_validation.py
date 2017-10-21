@@ -15,7 +15,7 @@ def isPhoneNumber(ph):
             return False
         if(ph[7]!='-'):
             return False
-        if(ph[i] not in range(10)):
+        if((i!=3 and i!=7) and int(ph[i]) not in range(10)):
             return False
         
     
